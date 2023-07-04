@@ -1,0 +1,4 @@
+function doInit(){
+
+}
+doInit();
