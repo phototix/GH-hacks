@@ -5,6 +5,8 @@ Personal Testing of Coding Skills
 
 ### 2023-JUL-05
 - PHP Code to block file uploads not more than 10MB.
+- JavaScript code to return result of Plus and Minus
+- HTML basic usage.
 
 ### 2023-JUL-04 
 - Created this Repo and update this README
