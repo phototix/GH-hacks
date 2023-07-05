@@ -5,6 +5,7 @@ Personal Testing of Coding Skills
 
 ### 2023-JUL-05
 - PHP Code to block file uploads not more than 10MB.
+- PHP return domain name.
 - JavaScript code to return result of Plus and Minus
 - HTML basic usage.
 
