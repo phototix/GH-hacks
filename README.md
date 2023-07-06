@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-06
+- PHP code to return unique key for any ID.
+
 ### 2023-JUL-05
 - PHP Code to block file uploads not more than 10MB.
 - PHP return domain name.
