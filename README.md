@@ -4,7 +4,8 @@ Personal Testing of Coding Skills
 # Check-Ins (Only If I remember to do so)
 
 ### 2023-JUL-07
-- Authenticate with unique ID.
+- PHP Authenticate with unique ID.
+- JavaScript return unique key for any ID.
 
 ### 2023-JUL-06
 - PHP code to return unique key for any ID.
