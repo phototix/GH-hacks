@@ -20,11 +20,11 @@ Personal Testing of Coding Skills
 - Created this Repo and update this README
 - Add scripts & folders for coding.
 
-### 2012-DEC-31 
-- First ever PHP custom framework created.
-
 ### 2023-APR-07 
 - Do some basic Hello World coding.
+
+### 2012-DEC-31 
+- First ever PHP custom framework created.
 
 ### 1982-DEC-24
 - I'm born to love coding as a hobby.
