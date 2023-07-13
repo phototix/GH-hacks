@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-13
+- PHP secured mysql connection
+
 ### 2023-JUL-07
 - PHP intruce OOP into codes
 - PHP Authenticate with unique ID.
