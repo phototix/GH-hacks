@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-15
+- PHP mySQL + PHP to fix UTF-8 error.
+
 ### 2023-JUL-14
 - PHP API call with basic JSON payload.
 
