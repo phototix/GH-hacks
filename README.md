@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-18
+- Create a PHP script to display a random quote of the day.
+
 ### 2023-JUL-14
 - PHP API call with basic JSON payload.
 
