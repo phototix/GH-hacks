@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-19
+- bash script using PHP Shell to trigger restart services.
+
 ### 2023-JUL-18
 - Create a PHP script to display a random quote of the day.
 
