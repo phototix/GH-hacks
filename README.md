@@ -6,7 +6,9 @@ Personal Testing of Coding Skills
 ### 2023-JUL-20
 - PHP Generate Random Password
 - Python - Hello World
+- Python - Python code to return 4 digit.
 - Flutter - Hello World
+- Flutter - Image display
 
 ### 2023-JUL-19
 - bash script using PHP Shell to trigger restart services.
