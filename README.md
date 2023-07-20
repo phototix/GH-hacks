@@ -3,6 +3,11 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-20
+- PHP Generate Random Password
+- Python - Hello World
+- Flutter - Hello World
+
 ### 2023-JUL-19
 - bash script using PHP Shell to trigger restart services.
 
