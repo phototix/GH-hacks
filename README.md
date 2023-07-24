@@ -3,6 +3,10 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-24
+- Python - Random Jokes return
+- Flutter(Dart) - Apps to send Emoji
+
 ### 2023-JUL-20
 - PHP Generate Random Password
 - Python - Hello World
