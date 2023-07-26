@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-JUL-26
+- Python Text Game
+
 ### 2023-JUL-25
 - Trying of some non-coding platfrom at Zapier.
 
