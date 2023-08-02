@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-02
+- PHP Counting Repeated Characters
+
 ### 2023-JUL-26
 - Python Text Game
 
