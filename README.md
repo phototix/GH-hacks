@@ -5,7 +5,7 @@ Personal Testing of Coding Skills
 
 ### 2023-AUG-08
 - PHP Palindrome Check
-- Added */5 * * * * /bin/bash /var/www/html/llama2.brandon.my/rename.sh
+- Bash Do content copy
 
 ### 2023-AUG-02
 - PHP Counting Repeated Characters
