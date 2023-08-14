@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-14
+- PHP isPrime
+
 ### 2023-AUG-10
 - PHP fizzBuzz
 
