@@ -6,6 +6,7 @@ Personal Testing of Coding Skills
 ### 2023-AUG-15
 - Flutter: To-Do List App
 - Bash: Reboot on Ubuntu
+- Python: Weather information tool
 
 ### 2023-AUG-14
 - PHP isPrime
