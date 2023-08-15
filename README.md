@@ -3,6 +3,10 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-15
+- Flutter: To-Do List App
+- Bash: Reboot on Ubuntu
+
 ### 2023-AUG-14
 - PHP isPrime
 
