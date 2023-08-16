@@ -5,6 +5,7 @@ Personal Testing of Coding Skills
 
 ### 2023-AUG-16
 - Python: Word palindrome checker.
+- Flutter: Weather Forecast App
 
 ### 2023-AUG-15
 - Flutter: To-Do List App
