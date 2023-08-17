@@ -6,6 +6,7 @@ Personal Testing of Coding Skills
 ### 2023-AUG-17
 - Flutter: Movie Catalog App
 - Python: Prime Number returner.
+- PHP: Array Sum
 
 ### 2023-AUG-16
 - Python: Word palindrome checker.
