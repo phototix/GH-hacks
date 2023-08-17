@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-17
+- Flutter: Movie Catalog App
+
 ### 2023-AUG-16
 - Python: Word palindrome checker.
 - Flutter: Weather Forecast App
