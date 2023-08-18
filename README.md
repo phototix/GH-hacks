@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-18
+- JavaScript: Find the Largest Element in an Array
+
 ### 2023-AUG-17
 - Flutter: Movie Catalog App
 - Python: Prime Number returner.
