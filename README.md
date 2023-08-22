@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-22
+- PHP: Calculate grade.
+
 ### 2023-AUG-18
 - PHP: Formular to calculate Viewing Distance of CCTVs
 - JavaScript: Find the Largest Element in an Array
