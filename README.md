@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-AUG-25
+- PHP: Word Frequency Counter
+
 ### 2023-AUG-22
 - PHP: Calculate grade.
 
