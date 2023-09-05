@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-SEP-05
+- Python: DHT22 or DHT11 sensor (for temperature and humidity
+
 ### 2023-AUG-30
 - PHP: Fibonacci Sequence Generator
 - Python: ContactManager
