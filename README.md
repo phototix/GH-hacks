@@ -5,6 +5,7 @@ Personal Testing of Coding Skills
 
 ### 2023-SEP-05
 - Python: DHT22 or DHT11 sensor (for temperature and humidity
+- PHP: Linux Command Execution
 
 ### 2023-AUG-30
 - PHP: Fibonacci Sequence Generator
