@@ -5,6 +5,7 @@ Personal Testing of Coding Skills
 
 ### 2023-SEP-07
 - Python: Video Doorbell.
+- JavaScript: Custom MP3 Player.
 
 ### 2023-SEP-06
 - PHP: Tesla API Command Execution
