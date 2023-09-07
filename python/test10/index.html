@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Doorbell Control</title>
+</head>
+<body>
+    <h1>Video Doorbell Control</h1>
+
+    <h2>Live Video Feed</h2>
+    <img src="data:image/jpeg;base64,{{ video_stream }}" alt="Live Video Feed">
+    
+    <h2>Doorbell Status</h2>
+    <p>{{ doorbell_status.status }}</p>
+</body>
+</html>

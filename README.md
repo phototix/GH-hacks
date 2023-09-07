@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-SEP-07
+- Python: Video Doorbell.
+
 ### 2023-SEP-06
 - PHP: Tesla API Command Execution
 
