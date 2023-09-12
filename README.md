@@ -5,6 +5,7 @@ Personal Testing of Coding Skills
 
 ### 2023-SEP-12
 - Python: Device Status Checker over IP.
+- PHP: Enhance chat functions
 
 ### 2023-SEP-08
 - Python: Video Player from AWS S3 URL.
