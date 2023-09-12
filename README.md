@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins (Only If I remember to do so)
 
+### 2023-SEP-12
+- Python: Device Status Checker over IP.
+
 ### 2023-SEP-08
 - Python: Video Player from AWS S3 URL.
 
