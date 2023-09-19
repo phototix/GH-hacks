@@ -1,7 +1,7 @@
 # GH-hacks
 Personal Testing of Coding Skills
 
-# Check-Ins (Only If I remember to do so)
+# Check-Ins
 
 ### 2023-SEP-19
 - PHP: To-Do list management.
