@@ -4,6 +4,7 @@ Personal Testing of Coding Skills
 # Check-Ins
 
 ### 2023-SEP-19
+- Python: Return permutations of 4 digits numbers.
 - Flutter: List tables in MySQL database in PHP.
 - Python: Transcoding AVI file to MP4 using FFMPEG.
 - PHP: To-Do list management.
