@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins
 
+### 2023-OCT-03
+- VB: Sales Calculator
+
 ### 2023-SEP-29
 - PHP: Date/Time changer by zones
 
