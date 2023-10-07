@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins
 
+### 2023-OCT-08
+- PHP: Load Test Functions
+
 ### 2023-OCT-06
 - Python: ML over txt files.
 
