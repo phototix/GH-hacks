@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins
 
+### 2023-OCT-09
+- Python: Network WoL function
+
 ### 2023-OCT-06
 - Python: ML over txt files.
 
