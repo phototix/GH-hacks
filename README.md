@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins
 
+### 2023-OCT-12
+- PHP: PenTest Functions - 01- get_headers
+
 ### 2023-OCT-09
 - Python: Network WoL function
 
