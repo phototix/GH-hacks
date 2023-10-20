@@ -3,6 +3,9 @@ Personal Testing of Coding Skills
 
 # Check-Ins
 
+### 2023-OCT-21
+- Batch: Restart PC if no internet connection
+
 ### 2023-OCT-18
 - PHP: Sorting for json into array
 
